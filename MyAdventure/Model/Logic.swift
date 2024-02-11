@@ -19,7 +19,7 @@ struct Logic {
                 Choices("Take Elevator to Dracula's Dungeon", "You find Yourself in a Treasure Room with Two Weapons", 0),
                 Choices("Take Elevator to Dracula's Throne Room", "Dracula Sits on His Throne", 0),
                 Choices("Choose the Silver Sword", "The Sword's Handle was Poisoned", 1),
-                Choices("Choose the Wooden Stake", "Draculs Ambushes You in the Dungeon", 0),
+                Choices("Choose the Wooden Stake", "Dracula Ambushes You in the Dungeon", 0),
                 Choices("Fight Dracula", "He is Immortal, Dummy", 1),
                 Choices("Run Away", "You Trigger Booby Trap by the Door", 1),
                 Choices("Feint, Then Drive Stake through his Heart", "Dracula doesn't Fall for Cheap Tricks", 1),
